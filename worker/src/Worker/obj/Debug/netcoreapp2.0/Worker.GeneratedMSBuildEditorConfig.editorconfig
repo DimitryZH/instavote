@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = Worker
+build_property.ProjectDir = C:\projects\kubernetes\instavote-project\instavote\worker\src\Worker\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
